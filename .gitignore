@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local Python environments and caches
+.venv/
+.cache/
+yipitdata_submission/.venv/
+yipitdata_submission/.cache/
+
+# Local editor state
+.vscode/
+yipitdata_submission/.vscode/
+
+# Generated runtime outputs
+yipitdata_submission/figures/
+
+# Local verification helper, not part of the submitted package
+yipitdata_submission/check_environment.py
